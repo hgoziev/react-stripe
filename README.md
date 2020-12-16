@@ -4,26 +4,31 @@ How to use stripe with react.
 ## Getting Started
 <ul>
   <li>
+    clone this repo locally by clicking on
     <h4>
-clone this repo locally by clicking on "Clone or Download"
+ "Clone or Download"
     </h4>
   </li>
   <li>
+    from a terminal, cd into the project folder
     <h4>
-from a terminal, cd into the project folder cd react-stripe-js-demo
+ cd react-stripe-js-demo
       </li>
     </h4>
     <li>
+  checkout the getting started branch
   <h4>
-checkout the getting started branch git checkout getting-started
+ git checkout getting-started
   </h4></li>
   <li>
+  install the dependencies
   <h4>
-install the dependencies npm install
+ npm install
   </h4>
   </li>
   <li>
+  start developing! 
   <h4>
-start developing! npm run dev
+npm run dev
   </h4>
   </li>
